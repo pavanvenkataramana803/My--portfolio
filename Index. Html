@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I'm a CME Student</h1>
+    <p>I am learning Web Development.</p>
 
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript (Learning)</li>
+    </ul>
+</body>
+</html>
